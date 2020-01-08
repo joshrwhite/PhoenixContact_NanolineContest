@@ -21,7 +21,7 @@ The additional Analog I/O Module allows for two (2) more AC Inputs and two (2) m
 
 ### Operator Panel
 
-The Operator Panel resides in the Base Unit and acts as the interface between user and machine. It allows the user to input commands and can display messages based on the automated tasks' operation.
+The Operator Panel resides in the Base Unit and acts as the interface between user and machine. It allows the user to input commands and can display messages based on the automated tasks' operation. The Operator Panel can also be remotely installed to your system and wired via 10 Pin connection or Ethernet Cable to the Nanoline Base Unit.
 
 ### USB Module
 
